@@ -1,0 +1,11 @@
+// Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyCyTdlnSOPJEJHjeV1KYOquyDZ1HwFz7Cc",
+    authDomain: "tazafood-001.firebaseapp.com",
+    databaseURL: "https://tazafood-001.firebaseio.com",
+    projectId: "tazafood-001",
+    storageBucket: "",
+    messagingSenderId: "144124681618",
+    appId: "1:144124681618:web:a0d9b58fb4876ef368b54b"
+  };
+  // Initialize Firebase
